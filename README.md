@@ -27,7 +27,6 @@ The flight dataset contains information about flights, including departure and a
 - Distribution plots
 - Correlation matrix
 - Time series analysis
-- Geospatial analysis (if applicable)
 
 ### Feature Engineering
 
@@ -38,7 +37,6 @@ The flight dataset contains information about flights, including departure and a
 
 - Handling missing values
 - Encoding categorical variables
-- Scaling numerical features (if applicable)
 
 ## Key Insights
 
